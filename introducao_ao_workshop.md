@@ -8,6 +8,8 @@ Os desafios incluem:
 - Governança de dados
 - Crescimento e mudança dos dados
 
+![Visão 360](https://github.com/aremartins/workshop-aws-builders-womens-edition-2024/blob/main/customer-360.png)
+
   
 
 Neste workshop, exploramos uma empresa hipotética com dimensões comuns ao setor e outras válidas para qualquer setor de serviços, como marketing e comunicações, histórico do cliente ou dimensão demográfica.
