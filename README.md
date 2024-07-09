@@ -21,7 +21,7 @@ Os principais desafios abordados incluíram:
 
 ## Imagens
 
-![Arquitetura](imagens/arquitetura.png)
+![Arquitetura]([imagens/arquitetura.png](https://github.com/aremartins/workshop-aws-builders-womens-edition-2024/blob/main/Arquitetura/Imagens/architeture-01.svg))
 
 ## Tags
 
