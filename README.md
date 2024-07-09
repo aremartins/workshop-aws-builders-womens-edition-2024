@@ -4,7 +4,7 @@ Este repositório documenta a participação em um workshop promovido pelo event
 
 ## Conteúdo
 
-- [Arquitetura](arquitetura/diagrama.md)
+- [Arquitetura](Arquitetura/README.md)
 - [Fontes de Dados](fontes_de_dados/informacao_cliente.md)
 - [Recursos Provisionados](recursos_provisionados/buckets_s3.md)
 
