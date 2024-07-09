@@ -19,10 +19,9 @@ Os principais desafios abordados incluíram:
 - Crescimento e mudança dos dados
 
 
-## Imagens
+## Arquitetura
 
 ![Arquitetura](https://github.com/aremartins/workshop-aws-builders-womens-edition-2024/blob/main/Arquitetura/Imagens/architeture-01.svg)
 
-## Tags
 
 #AWS #WomenInTech #AWSBuilders #DataEngineering #CloudComputing #Empowerment #Learning #Itaú
