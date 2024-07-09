@@ -6,7 +6,7 @@ Este repositório documenta a participação em um workshop promovido pelo event
 
 - [Arquitetura](Arquitetura/README.md)
 - [Fontes de Dados](fontes_de_dados/informacao_cliente.md)
-- [Recursos Provisionados](recursos_provisionados/buckets_s3.md)
+- [Recursos Provisionados](recursos_provisionados%20/buckets_s3.md)
 
 ## Resumo
 
