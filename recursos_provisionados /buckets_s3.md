@@ -40,13 +40,12 @@ Este bucket é utilizado para armazenar logs de atividades e processamento. Mant
 - Armazenar logs de atividades e processamento.
 - Facilitar o monitoramento e a auditoria das operações realizadas.
 
-## Diagrama de Arquitetura
+## Diagrama de Transformação de Dados
 
-Abaixo está um diagrama que ilustra como os buckets S3 se encaixam na arquitetura geral utilizada no workshop:
+Abaixo está um diagrama que ilustra as etapas de transformação de dados que ocorrem entre os diferentes buckets S3:
 
-![Diagrama de Arquitetura](https://github.com/aremartins/workshop-aws-builders-womens-edition-2024/blob/main/Arquitetura/Imagens/architeture-01.svg)
+![Diagrama de Transformação de Dados](../Imagens/adv-trans.svg)
 
 ---
 
 Este documento fornece uma visão geral dos buckets do Amazon S3 utilizados no workshop do AWS Builders Women's Edition 2024, destacando suas finalidades e como eles se encaixam na arquitetura geral.
-
