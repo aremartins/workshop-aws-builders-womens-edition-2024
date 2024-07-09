@@ -44,7 +44,7 @@ Este bucket é utilizado para armazenar logs de atividades e processamento. Mant
 
 Abaixo está um diagrama que ilustra as etapas de transformação de dados que ocorrem entre os diferentes buckets S3:
 
-![Diagrama de Transformação de Dados](../Imagens/adv-trans.svg)
+![Diagrama de Transformação de Dados](https://github.com/aremartins/workshop-aws-builders-womens-edition-2024/blob/main/recursos_provisionados%20/Imagens/adv-trans.svg)
 
 ---
 
